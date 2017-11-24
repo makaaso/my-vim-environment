@@ -1,7 +1,7 @@
 # my-vim-environment
 
-# feature add hashicorm
-## installation
+## feature add hashicorm
+### installation
 ```
 mkdir -p ~/.vim/bundle
 cd ~/.vim/bundle
@@ -18,7 +18,7 @@ filetype plugin indent on
 ----------
 ```
 
-## reference url
+### reference url
 - [vim-hashicorp-tools](https://github.com/hashivim/vim-hashicorp-tools)
 - [vim-pathogen](https://github.com/tpope/vim-pathogen)
 
