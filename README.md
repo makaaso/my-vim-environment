@@ -1,5 +1,12 @@
 # my-vim-environment
 
+## how to deploy
+```
+git clone https://github.com/makaaso/my-vim-environment.git
+cd my-vim-environment
+./deploy.sh
+```
+
 ## feature add hashicorm
 ### installation
 ```
